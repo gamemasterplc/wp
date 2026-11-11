@@ -12,13 +12,13 @@ REL/global_destructor_chain.c:
 	.bss        start:0x00000000 end:0x00000008
 
 wp/menu/menu_1.cpp:
-	.text       start:0x00000080 end:0x00000490 align:16
+	.text       start:0x00000080 end:0x00000500 align:16
 	.rodata     start:0x00000000 end:0x00000008
 	.data       start:0x00000000 end:0x00000078
 	.bss        start:0x00000008 end:0x00000010
 
 wp/menu/menu_2.cpp:
-	.text       start:0x00000490 end:0x00004EF0 align:16
+	.text       start:0x00000500 end:0x00004EF0 align:16
 	.rodata     start:0x00000008 end:0x00000018
 	.data       start:0x00000078 end:0x000001A0
 	.bss        start:0x00000010 end:0x00000028
